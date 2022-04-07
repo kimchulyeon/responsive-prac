@@ -18,7 +18,7 @@ const Sidebar = () => {
         <SidebarMenu>
           <SidebarLink>About</SidebarLink>
           <SidebarLink>Discover</SidebarLink>
-          <SidebarLink>Services</SidebarLink>
+          <SidebarLink>Service</SidebarLink>
           <SidebarLink>Sign Up</SidebarLink>
         </SidebarMenu>
       </SidebarWrapper>
